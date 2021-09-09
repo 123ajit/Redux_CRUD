@@ -1,2 +1,2 @@
-# Redux_CRUD
+# Redux
 Created with CodeSandbox
